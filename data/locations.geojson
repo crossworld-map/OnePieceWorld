@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100, 20]
+      },
+      "properties": {
+        "name": "Wano Country",
+        "description": "Nación aislada con samuráis y tradiciones únicas.",
+        "chapter": "909-1057",
+        "layer": "New World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30, -15]
+      },
+      "properties": {
+        "name": "Dressrosa",
+        "description": "Isla gobernada por un rey carismático; arena de gladiadores.",
+        "chapter": "700-801",
+        "layer": "New World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40, -10]
+      },
+      "properties": {
+        "name": "Alabasta",
+        "description": "Gran reino desértico con luchas por la supervivencia.",
+        "chapter": "155-217",
+        "layer": "Grand Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-20, 0]
+      },
+      "properties": {
+        "name": "Enies Lobby",
+        "description": "Sede del poder judicial del Gobierno Mundial.",
+        "chapter": "375-430",
+        "layer": "Grand Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100, 30]
+      },
+      "properties": {
+        "name": "Whole Cake Island",
+        "description": "Territorio de Big Mom hecho de dulces y pasteles.",
+        "chapter": "827-902",
+        "layer": "New World"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 5]
+      },
+      "properties": {
+        "name": "Marineford",
+        "description": "Cuartel general de la Marina y escenario de la Guerra de la Cumbre.",
+        "chapter": "550-580",
+        "layer": "Grand Line"
+      }
+    }
+  ]
+}
