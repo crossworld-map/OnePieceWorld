@@ -1,6 +1,6 @@
 # Aviso Legal
 
-Este repositorio contiene el código y los datos para **Crossworld**, un mapa interactivo del mundo de *One Piece* creado por fans. El proyecto es de carácter no oficial y sin ánimo de lucro. No tiene ninguna afiliación, patrocinio ni respaldo por parte de los titulares de derechos de *One Piece*.
+Este repositorio contiene el código y los datos para **Wholepieceworld**, un mapa interactivo del mundo de *One Piece* creado por fans. El proyecto es de carácter no oficial y sin ánimo de lucro. No tiene ninguna afiliación, patrocinio ni respaldo por parte de los titulares de derechos de *One Piece*.
 
 ## Contenido fan‑made
 

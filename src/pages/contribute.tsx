@@ -5,7 +5,7 @@ export default function Contribute() {
   return (
     <Layout>
       <Head>
-        <title>Contribuir – Crossworld</title>
+        <title>Contribuir – Wholepieceworld</title>
       </Head>
       <h2 style={{ marginTop: '1rem' }}>Contribuir</h2>
       <p>¡Gracias por tu interés en colaborar! Este proyecto es open source y agradece las contribuciones de la comunidad.</p>

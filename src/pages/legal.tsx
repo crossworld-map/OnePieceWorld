@@ -5,7 +5,7 @@ export default function Legal() {
   return (
     <Layout>
       <Head>
-        <title>Aviso Legal – Crossworld</title>
+        <title>Aviso Legal – Wholepieceworld</title>
       </Head>
       <h2 style={{ marginTop: '1rem' }}>Aviso Legal y Política de Privacidad</h2>
       <h3>Aviso Legal</h3>
@@ -22,7 +22,7 @@ export default function Legal() {
       </p>
       <h3>Política de Privacidad</h3>
       <p>
-        Crossworld respeta tu privacidad. No utilizamos cookies de rastreo ni recopilamos datos
+        Wholepieceworld respeta tu privacidad. No utilizamos cookies de rastreo ni recopilamos datos
         personales identificables. Empleamos un servicio de analítica libre y respetuoso con la
         privacidad (Umami) para conocer el número de visitas y mejorar el sitio. Esta analítica
         recoge datos de forma anónima y no se comparte con terceros.

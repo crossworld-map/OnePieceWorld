@@ -1,6 +1,6 @@
 # Guía de Contribución
 
-¡Gracias por considerar contribuir a Crossworld! Este proyecto es posible gracias a la comunidad de fans. A continuación se detallan las pautas para colaborar de forma efectiva.
+¡Gracias por considerar contribuir a Wholepieceworld! Este proyecto es posible gracias a la comunidad de fans. A continuación se detallan las pautas para colaborar de forma efectiva.
 
 ## ¿Cómo contribuir?
 

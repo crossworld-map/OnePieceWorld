@@ -1,6 +1,6 @@
-# Crossworld – Mapa Fan‑made de One Piece
+# Wholepieceworld – Mapa Fan‑made de One Piece
 
-Crossworld es un mapa web interactivo del mundo de **One Piece** creado por fans. El sitio permite explorar los mares, islas y regiones del universo de la serie, con referencias a capítulos y volúmenes. El proyecto es gratuito y se sostiene a través de donaciones de la comunidad.
+Wholepieceworld es un mapa web interactivo del mundo de **One Piece** creado por fans. El sitio permite explorar los mares, islas y regiones del universo de la serie, con referencias a capítulos y volúmenes. El proyecto es gratuito y se sostiene a través de donaciones de la comunidad.
 
 ## Características del MVP
 
@@ -43,6 +43,23 @@ Para desplegar manualmente:
 
 Consulta la documentación de Vercel para más detalles sobre variables de entorno y dominios personalizados.
 
+## Donaciones y analítica
+
+### Donaciones
+
+El sitio incluye un botón de donación de [Ko‑fi](https://ko-fi.com/).  Por defecto se enlaza al perfil `crossworld` mediante `https://ko-fi.com/crossworld`.  Si cambias tu nombre de usuario en Ko‑fi, actualiza la propiedad `href` en `src/pages/index.tsx` para reflejar la nueva URL.
+
+### Analítica con Umami
+
+Wholepieceworld utiliza [Umami](https://umami.is/) como herramienta de analítica web de código abierto y respetuosa de la privacidad. Para habilitar la analítica en producción debes definir las siguientes variables de entorno en Vercel (o en `.env.local` para pruebas locales):
+
+```env
+NEXT_PUBLIC_UMAMI_WEBSITE_ID=<ID del sitio en Umami>
+NEXT_PUBLIC_UMAMI_SRC=<URL del script de tu instancia de Umami>
+```
+
+Si no defines estas variables, el script no se cargará y no se registrarán eventos.
+
 ## Contribuir
 
 Las contribuciones son bienvenidas. Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para conocer el flujo de trabajo y las pautas.
@@ -53,4 +70,4 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 
 ## Aviso legal
 
-Crossworld es un proyecto de fans no oficial. No posee afiliación con los titulares de derechos de **One Piece**. No se utilizan materiales oficiales con copyright. El objetivo es educativo y transformativo.
+Wholepieceworld es un proyecto de fans no oficial. No posee afiliación con los titulares de derechos de **One Piece**. No se utilizan materiales oficiales con copyright. El objetivo es educativo y transformativo.
